@@ -6,8 +6,7 @@
 
 ## 👩‍💻 About Me
 
-I’m an undergraduate student passionate about creating innovative solutions that blend software, hardware, and real-world impact. With a love for both coding and design, I enjoy building projects ranging from web apps to embedded IoT systems. When I’m not coding, you’ll find me reading, drawing (a bit of a graphics designer!), or planning my next travel adventure.
-
+I’m an undergraduate student passionate about creating innovative solutions that blend software, hardware, and real-world impact. With a love for both coding and design, I enjoy building projects ranging from web apps to embedded IoT systems. When I’m not coding, you’ll find me reading, drawing (a bit of a graphics designer!). 
 ---
 
 ## 🛠️ Skills & Tools
