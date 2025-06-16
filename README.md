@@ -1,44 +1,42 @@
-🎓 **Undergraduate Student in Computer Information and System Engineering**  
-💻 **Aspiring Computer System Engineer**  
-🖐️ **Left-handed | Tech Enthusiast | World Traveler**
+# Hi there, I'm Zaynab! 👋
+
+🎓 ** An Undergraduate Student in Computer Information and System Engineering**  
+💻 **Computer System Engineer**  
+🖐️ **Left-handed | Tech Enthusiast | World Traveler | Graphic Design**
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 Tech Stack:
 
-I’m an undergraduate student passionate about creating innovative solutions that blend software, hardware, and real-world impact. With a love for both coding and design, I enjoy building projects ranging from web apps to embedded IoT systems. When I’m not coding, you’ll find me reading, drawing (a bit of a graphics designer!). 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![StarUML](https://img.shields.io/badge/StarUML-1B6AC6?style=for-the-badge&logo=staruml&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI/ML-FF6F00?style=for-the-badge)
+![IoT](https://img.shields.io/badge/IoT-00BFFF?style=for-the-badge)
+
 ---
 
-## 🛠️ Skills & Tools
+## 📊 GitHub Stats:
 
-- **Languages:** Python, HTML, CSS, JavaScript
-- **Frameworks:** Flask, Django
-- **Database:** MySQL
-- **Modeling:** StarUML
-- **Hardware:** Arduino
-- **Domains:** Artificial Intelligence, Machine Learning, IoT Embedded Systems
+![Zaynab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaynab14&show_icons=true&theme=dark)
+![Zaynab's Streak](https://github-readme-streak-stats.herokuapp.com?user=zaynab14&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
-## 🚀 Projects & Highlights
+## 🏆 Projects & Highlights
 
-- **Air Quality Monitor (IoT Based):**  
-  Real-time air quality analysis and reporting using embedded sensors and cloud integration.
-
-- **Flappy Bird:**  
-  A fun recreation of the classic game with added twists and custom graphics.
-
-- **Space Shooter:**  
-  Advanced arcade shooter, featuring custom levels and smooth gameplay.
-
-- **Advanced TCP Chat Room:**  
-  A robust, multi-user chat application leveraging TCP networking.
-
-- **Event Management System:**  
-  Streamlining event planning and coordination with modern web technologies.
-
-- **Hotel Management Network Design:**  
-  Designed efficient and scalable network solutions for hospitality management.
+- **Air Quality Monitor (IoT Based)**
+- **Flappy Bird**
+- **Space Shooter**
+- **Advanced TCP Chat Room**
+- **Event Management System**
+- **Hotel Management Network Design**
 
 ---
 
@@ -48,9 +46,6 @@ I’m an undergraduate student passionate about creating innovative solutions th
 - Enjoys reading and sketching digital art
 - Loves to travel and explore new cultures
 
----
-
 <!--
 **zaynab14/zaynab14** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
-
