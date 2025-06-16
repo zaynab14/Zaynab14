@@ -1,6 +1,6 @@
 # Hi there, I'm Zaynab! 👋
 
-🎓 ** An Undergraduate Student in Computer Information and System Engineering**  
+🎓 **An Undergraduate Student in Computer Information and System Engineering**  
 💻 **Computer System Engineer**  
 🖐️ **Left-handed | Tech Enthusiast | World Traveler | Graphic Design**
 
